@@ -42,6 +42,7 @@ public class game
             Console.WriteLine("Invalid move. Please try again. \n");
             getusermove();
             //
+            //
         }
         
         Console.WriteLine("Moving piece: " + frompeice + " to which square?\n");
