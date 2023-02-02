@@ -43,6 +43,7 @@ public class game
             getusermove();
             //
             //
+            //
         }
         
         Console.WriteLine("Moving piece: " + frompeice + " to which square?\n");
